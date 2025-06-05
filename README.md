@@ -1,21 +1,22 @@
-Unscramble app
+## Descripción
+
+Este proyecto contiene:
 =================================
+Aplicación "Unscramble.app" que se trata de un juego donde muestra al jugador palabras desordenadas.
+Para jugar, el jugador debe formar una palabra usando todas las letras de la palabra desordenada mostrada.
+Este código muestra los componentes de la arquitectura de Android: ViewModel y StateFlow.
+ 
+  
+## Pre-requisitos
+==================================
+* Experiencia ejecutando aplicaciones en el equipo o emulador
 
-Single player game app that displays scrambled words. To play the game, player has to make a
-word using all the letters in the displayed scrambled word.
-This code demonstrates the Android Architecture component- ViewModel and StateFlow.
+## Capturas de pantalla
 
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_unscramble/blob/main/imagen01.jpeg)
 
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+## Cómo ejecutar
+===================================
+1. Abrir el proyecto Unscrasmble.app en Android Studio.
+2. Compilar y ejecutar en un emulador con API 31.
+3. Veras una pantalla con lista desplegable con varios mensajes.
